@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator-Nash</string>
+    <string name="button_height">100dp</string>
+    <string name="alt_button_height">85dp</string>
+    <string name="button_width">95dp</string>
+    <string name="alt_button_width">80dp</string>
+</resources>
